@@ -8,9 +8,9 @@ using UnityEditor.AddressableAssets.Build;
 using UnityEditor.AddressableAssets.Settings;
 using UnityEngine;
 using HybridCLR.Editor.Installer;
-public class JenkinsHybridCLR 
+public class JenkinsHybridCLR
 {
-	private static string _installLibil2cppWithHybridclrSourceDir;
+    private static string _installLibil2cppWithHybridclrSourceDir;
     private static InstallerController _controller;
     private static InstallerController Controller
     {
@@ -36,7 +36,7 @@ public class JenkinsHybridCLR
         else
         {
             Debug.LogError("CheckHybridCLRInstall, HybridCLR已经安装, 不必再执行安装步骤");
-        }      
+        }
     }
 
     public static bool HasInstalledHybridCLR()

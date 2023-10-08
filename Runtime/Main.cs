@@ -124,7 +124,7 @@ public class Main : MonoBehaviour
         {
             StartCoroutine(StartGameAndReleaseHandler(handler));
         }
-        
+
     }
 
     /// <summary>
