@@ -73,7 +73,8 @@ public class DownloadConfigManager : MonoBehaviour
                 if (catalogContent != downloadedText)
                 {
                     Debug.Log("Resources text: " + catalogContent);
-                    StartCoroutine(DownloadConfigList(()=> {
+                    StartCoroutine(DownloadConfigList(() =>
+                    {
                         // 保存修改后的内容到新的文件
                         string saveDicPath = Application.persistentDataPath + $"/{showVersion}";
                         string savePath = saveDicPath + "/" + "catalog.txt";
@@ -232,5 +233,5 @@ public class DownloadConfigManager : MonoBehaviour
 
         request.Dispose();
     }
-   
+
 }

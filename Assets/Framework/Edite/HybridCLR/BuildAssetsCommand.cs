@@ -35,7 +35,7 @@ namespace HybridCLR.Editor
             return s.Substring(s.IndexOf("Assets/"));
         }
 
-        
+
 
         [MenuItem("HybridCLR/Build/BuildAssetsAndCopyToRes")]
         public static void BuildAndCopyABAOTHotUpdateDlls()
