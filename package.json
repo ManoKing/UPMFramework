@@ -15,7 +15,6 @@
     "upm"
   ],
   "dependencies": {
-    "com.code-philosophy.hybridclr": "https://gitee.com/focus-creative-games/hybridclr_unity.git",
     "com.unity.addressables": "1.21.18",
     "com.unity.assetgraph": "1.7.2-preview"
   },
