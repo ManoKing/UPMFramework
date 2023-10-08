@@ -12,5 +12,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
   m_Name: AssetReferenceDB
   m_EditorClassIdentifier: 
-  m_assets: []
+  m_assets:
+  - m_assetDatabaseId: c5066f825f71d514d8552a3484fe5708
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98852f0ec9c872e4db243104afc65982
+    m_importFrom: Assets/Framework/Runtime/Main.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 58d83d5383e147c4f93a37575126822d
+    m_importFrom: Assets/Framework/Runtime/Tools/DownloadConfigManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28d52770e97e08d478ea5e49c0c056db
+    m_importFrom: Assets/Framework/Edite/Jenkins/JenkinsAdapter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f288b5192a6a6d34e9e915b7e0e1cc15
+    m_importFrom: Assets/Framework/Edite/Jenkins/JenkinsAddressables.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c3286e3f558778540aad82a9d4ff83eb
+    m_importFrom: Assets/Framework/Runtime/LoadDll.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a8357532218e6f49a9bb9401382d6d4
+    m_importFrom: Assets/Framework/Edite/HybridCLR/BuildAssetsCommand.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 59d6de053fcb20c44ba40a40c98303bc
+    m_importFrom: Assets/Framework/Edite/Jenkins/JenkinsHybridCLR.cs
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
