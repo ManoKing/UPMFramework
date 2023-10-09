@@ -17,32 +17,40 @@ MonoBehaviour:
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 98852f0ec9c872e4db243104afc65982
-    m_importFrom: Assets/Framework/Runtime/Main.cs
+  - m_assetDatabaseId: 2f34bc9dde117a948929869d912db742
+    m_importFrom: Assets/Res/Scenes
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 58d83d5383e147c4f93a37575126822d
-    m_importFrom: Assets/Framework/Runtime/Tools/DownloadConfigManager.cs
+  - m_assetDatabaseId: 66b8e0d49d006dd4cb32d8b0fa444728
+    m_importFrom: Assets/Res/Scenes/Start.unity
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 28d52770e97e08d478ea5e49c0c056db
-    m_importFrom: Assets/Framework/Edite/Jenkins/JenkinsAdapter.cs
+  - m_assetDatabaseId: 678d462d33ebdd7419400a9476bf6759
+    m_importFrom: Assets/Res/Scenes/Main.unity
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: f288b5192a6a6d34e9e915b7e0e1cc15
-    m_importFrom: Assets/Framework/Edite/Jenkins/JenkinsAddressables.cs
+  - m_assetDatabaseId: c81bf86fb95a26446ae42f499fcbc766
+    m_importFrom: Assets/Res/Scenes/Shop.unity
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: c3286e3f558778540aad82a9d4ff83eb
-    m_importFrom: Assets/Framework/Runtime/LoadDll.cs
+  - m_assetDatabaseId: 4898136a010de434c8ccb47ba33915ed
+    m_importFrom: Assets/Scenes
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 1a8357532218e6f49a9bb9401382d6d4
-    m_importFrom: Assets/Framework/Edite/HybridCLR/BuildAssetsCommand.cs
+  - m_assetDatabaseId: 00000000000000004000000000000000
+    m_importFrom: ProjectSettings/ProjectSettings.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 59d6de053fcb20c44ba40a40c98303bc
-    m_importFrom: Assets/Framework/Edite/Jenkins/JenkinsHybridCLR.cs
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000006100000000000000
+    m_importFrom: ProjectSettings/GraphicsSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf9c5d13aee206243beff512afbfef84
+    m_importFrom: Assets/Scenes/HotFix.unity
     m_exportTo: 
     m_variantName: 
   m_version: 2
