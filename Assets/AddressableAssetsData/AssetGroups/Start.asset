@@ -10,14 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: UI
+  m_Name: Start
   m_EditorClassIdentifier: 
-  m_GroupName: UI
+  m_GroupName: Start
   m_Data:
     m_SerializedData: []
-  m_GUID: 6da73523aa5283d4582ef072976f7b42
-  m_SerializeEntries: []
+  m_GUID: a9792ed1d4c104946a812b8027a7b3ab
+  m_SerializeEntries:
+  - m_GUID: 63c261627920e634a9159d6c346e67d3
+    m_Address: App
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
   m_SchemaSet:
-    m_Schemas: []
+    m_Schemas:
+    - {fileID: 11400000, guid: 14cf352cffb5ea34a9c0c60cd30e9516, type: 2}
+    - {fileID: 11400000, guid: 39ca0f1f22040b648be8f1d1a119a713, type: 2}

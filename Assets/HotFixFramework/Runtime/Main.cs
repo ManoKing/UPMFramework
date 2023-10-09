@@ -13,8 +13,6 @@ public class Main : MonoBehaviour
     // 下载进度提醒
     public Text loadText;
     public Slider loadSlider;
-    // 打开登录界面后再关闭，防止花屏
-    public Canvas loadCanvas;
 
     // 下载Size弹框
     public GameObject tipsObj;
@@ -33,9 +31,7 @@ public class Main : MonoBehaviour
     private string newUrl;
     void Start()
     {
-        DontDestroyOnLoad(loadCanvas.gameObject);
         DontDestroyOnLoad(gameObject);
-
 
 #if !UNITY_EDITOR && UNITY_STANDALONE_WIN
         StartGame();
@@ -44,16 +40,6 @@ public class Main : MonoBehaviour
 #endif
     }
 
-    /// <summary>
-    /// 防止花屏，进入游戏后销毁下载界面
-    /// </summary>
-    public void DestroySelf()
-    {
-        if (loadCanvas != null)
-        {
-            Destroy(loadCanvas.gameObject);
-        }
-    }
 
     void StartGame()
     {

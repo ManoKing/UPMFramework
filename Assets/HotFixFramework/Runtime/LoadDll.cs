@@ -32,7 +32,7 @@ public class LoadDll : MonoBehaviour
     }
     void HotUpdatePrefab()
     {
-        Addressables.InstantiateAsync("UIPrefabs/App");
+        Addressables.InstantiateAsync("App");
     }
 
     /// <summary>
@@ -45,17 +45,11 @@ public class LoadDll : MonoBehaviour
 #if !UNITY_IOS
         List<string> aotMetaAssemblyFiles = new List<string>()
         {
-            "DOTween.dll",
-            "FingerGestures.dll",
-            "LGUI.dll",
             "System.Core.dll",
             "System.dll",
             "Unity.Addressables.dll",
             "Unity.ResourceManager.dll",
-            "UnityEngine.AndroidJNIModule.dll",
             "UnityEngine.CoreModule.dll",
-            "UnityEngine.JSONSerializeModule.dll",
-            "UnityEngine.UI.dll",
             "mscorlib.dll",
         };
         /// 注意，补充元数据是给AOT dll补充元数据，而不是给热更新dll补充元数据。
