@@ -1,0 +1,25 @@
+{
+  "name": "com.upm.framework",
+  "displayName": "UPMFramework",
+  "description": "UPM Framework",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "GPL-2.0-or-later",
+  "documentationUrl": "https://github.com/ManoKing/UPMFramework",
+  "author": {
+    "name": "Mano",
+    "email": "manoking@126.com",
+    "url": "https://github.com/ManoKing"
+  },
+  "keywords": [
+    "upm"
+  ],
+  "dependencies": {
+    "com.unity.addressables": "1.21.18",
+    "com.unity.assetgraph": "1.7.2-preview"
+  },
+  "samples": [
+
+  ]
+
+}
