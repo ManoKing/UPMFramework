@@ -13,10 +13,6 @@ MonoBehaviour:
   m_Name: AssetReferenceDB
   m_EditorClassIdentifier: 
   m_assets:
-  - m_assetDatabaseId: 3e1e4d3015e64094ba63d3f0d1897ff0
-    m_importFrom: Assets/Scripts/App.cs
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: c3286e3f558778540aad82a9d4ff83eb
     m_importFrom: Assets/HotFixFramework/Runtime/LoadDll.cs
     m_exportTo: 
@@ -2008,6 +2004,654 @@ MonoBehaviour:
     m_variantName: 
   - m_assetDatabaseId: 86e30ea9bccef9c49bdebf77ecf565a9
     m_importFrom: Assets/AddressableAssetsData/Android/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8515fe4be5c88bc4594fa0b2c4165a95
+    m_importFrom: Assets/Res/Tutorial/Down/IndustrialWarehouseUp.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 473ffa016efe3724cad08daa78e3d12a
+    m_importFrom: Assets/Res/Bundles/Characters/Raccoon/character.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e64ce49b27bab6e49a4fcec2c01f3602
+    m_importFrom: Assets/Res/Tutorial/LeftRight/IndustrialWarehouseTutorialLeftRight.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9b51c81c20d09b49a078e5821bb9d58
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleLowBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a4b7a23296b48b4981881bd17953ed7
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d68ac797bf384f84bbca159dc2a6e4d7
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleLowBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d6fcbaf51bca6b4594f12ca78b10a69
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsHouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a5b1ed81a7bde440aa6d2317adcd689
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanDumpsters01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49aa51c23aae1814da08106efff9839f
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsHouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efcbfaf146228ad40ae6c878d7806d64
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsHouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9be026198609a494aae8cec4aba2c813
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleRoadworksBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cccc43bc040988e488680155c25b163c
+    m_importFrom: Assets/Res/Prefabs/Powerup/ExtraLife.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81bf7d820e3d0554e9ea968eeba33052
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Industrial/IndustrialWarehouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 654b47fe18f35714aaf36bfa70b02983
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsHouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc9855a6b2a67364ebc0db28e7bbc98b
+    m_importFrom: Assets/Res/Prefabs/MusicPlayer.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d29e217ab3c1874d8d99169dabbbe35
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanDumpsters01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9056217b765e1b4893238b9e7ebddbc
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleWheelyBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10f2606a4e949f5489f1ce27b91600df
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBrickWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82eb370d70e50344cb6eeb919a1429b8
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleRoadworksBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de7a496cae0fcec4ead023eb1ebf6257
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d4807022e73aa34ab8f01892dbdfe1d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Industrial/IndustrialWarehouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f9eed4d340d06141a3c57dc69d8ed2c
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 544006c54b323e9419926850d7e3fbac
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsHouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 391abdb78f486ff4abd13845846e0f05
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 627ea187cfa7b524482f0725ce9ffafe
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBrickWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f0db6c5e9d5e3e4d9c0f51362e59d00
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanRoadIntersection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac3c86c2382618643bfda6ab3cc81a0b
+    m_importFrom: Assets/Res/Prefabs/PremiumCollectible.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35231d694d6c0ae4da2714b8969719cd
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleRat.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5bc3c5bd95058764489501ac1024b7ea
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4530c9317086c24e956c8e653d7cfc1
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: adb7c187800cf1d4697c2ec26f0a4bd1
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ae64d0eaec8d6f4f9436fce6117048d
+    m_importFrom: Assets/Res/Bundles/Characters/Cat/character.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2f8abb5887b4af046b2f7fe9190c9d1d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBrickWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b55f4706bf1aa048a56792177cb63dc
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4a6e14a3028d0745b6de33d884bf62a
+    m_importFrom: Assets/Res/Tutorial/Down/IndustrialWarehouseTutorialUp2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b27a4d1577ea1bd4f8a7f3dce60bf85c
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsHouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01466a005c28535479de3c39b3304e3f
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanPlasterWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2337a0b8ee44c884ea9a30757fe06a71
+    m_importFrom: Assets/Res/Tutorial/Up/IndustrialWarehouseUp3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 527cd33d94f565c428b85a011d736c3c
+    m_importFrom: Assets/Res/Prefabs/Powerup/Invincibilty.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03576c724d3dcac4690f6ede40e47639
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b718c14c1e836cc4a8ca91d61382c504
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleDog.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61bb777a99260874f88fe72c93801af9
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleHighBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6e9d5bba1674a148b19274e4b74ccf2
+    m_importFrom: Assets/Res/Tutorial/Up/IndustrialWarehouseUp.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24e342794dd5ea94fa4836beedc3a776
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanRoadTSection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b7ee2db83af4fe4da3b2af7d258d635
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ff30b5076d96ac4eb9ef7bf11a1bf5b
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanRoadIntersection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d998870eb4591747a98ab06751e0227
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanPlasterWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e01ea15bda91ee542a24f9c6f54bf6d3
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1269ce00623d4694f927c463dd3be44a
+    m_importFrom: Assets/Res/Prefabs/Powerup/ScoreMultiplier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0070c0f7d7cdcb4eb7176be4a87caa9
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleRoadworksCone.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd02fb81cd8dfa94fb3811b38b78b386
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBrickWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6789d11662a4a2d4b86aac2f6082e0a0
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleWheelyBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16cac8b68c4ca6448baecd0680e025f6
+    m_importFrom: Assets/Res/Prefabs/Pickup.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65d6a8c569ebabb48aa95414228089bc
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanDumpsters02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fee9019dfd7946b40892dcef5d3fcc42
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6544c21b25704ab4e9c8cd6a6d503dad
+    m_importFrom: Assets/Res/Prefabs/StraightLine.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39c9e0746ca1a4b4995befba3266d4f6
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleRoadworksCone.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4add46b17d5814744bb1498b198ed25d
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBrickWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e0040302c7a83c4d8e1ddf3979d6979
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Industrial/IndustrialWarehouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8c89761b43b2362418709a8178d5dd8c
+    m_importFrom: Assets/Res/Prefabs/Powerup/CoinMagnet.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee7969661b2b1e94891b8593e383883d
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e145376c7d52444b97856849e2a7bd2
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBrickWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 19a9ea291ba68194c8cac8f13a84fe83
+    m_importFrom: Assets/Res/Tutorial/LeftRight/IndustrialWarehouseLeftRight3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 747e617dac045eb4f9fa9978b75bb475
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanRoadTSection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1fdce3067b0cf842a46d3d44dd9e841
+    m_importFrom: Assets/Res/Tutorial/Down/IndustrialWarehouseUp3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dcbeb2ef97131d241b111f35d4788477
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsGarage01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec0335ae7fd65b74898920e51d042abd
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleRat.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68a52f3ad60bf6e4d8165784f5dffd9e
+    m_importFrom: Assets/Res/Tutorial/LeftRight/IndustrialWarehouseLeftRight2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 423b9549e9d84034aac50ab7e0459e77
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanPlasterWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: baf31dc160e3099428326b5a83db46cd
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b19a0bd8ede69fe4683dff84150a047b
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleHighBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed24d8dd91f5c544c8df6d3cf6dffc4c
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b87d64eb926fa841a7a41465b9e8b04
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleDog.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 226b344b8bdac594ea142309336337fe
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsGarage01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 22facfbe232a90b45b681c638f2e490d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7a3bd1684c9dc34895c2b9f97f1aeae
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanDumpsters02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f249b9db828e0cf488639f91ddce9646
+    m_importFrom: Assets/Res/Tutorial/Up/IndustrialWarehouseTutorialUp2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac361d43768a861498da8046b83b94f5
+    m_importFrom: Assets/Res/Prefabs/UI/Score.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63c261627920e634a9159d6c346e67d3
+    m_importFrom: Assets/Res/Prefabs/Start/App.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71514012df4dcd146957cb145cec8287
+    m_importFrom: Assets/Res/Prefabs/UI/MissionEntry.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abafe3707f9235b4ab7cdfd1333295c3
+    m_importFrom: Assets/Res/Prefabs/UI/ItemEntry.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94cb557246c11d14388842cc08be79a8
+    m_importFrom: Assets/Res/Prefabs/UI/PowerupIcon.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c5f0793b82536342bd64bc3e3fdee8a
+    m_importFrom: Assets/Res/Prefabs/IconConsumable.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c8b4e674120cad47a3fc249308e5af3
+    m_importFrom: Assets/Res/Prefabs/UI/AddMissionButton.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a53fe2875371488408daf0df7d69a981
+    m_importFrom: Assets/Res/Prefabs/UI/MissionPopup.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2bfa18892388236498842bbfe7a3ff83
+    m_importFrom: Assets/Res/Prefabs/UI/Header.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7e606f5827b7e344b8c317f6ced3910
+    m_importFrom: Assets/Scripts/PlayerData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35e3b2f55914ad449803d16ec91e4021
+    m_importFrom: Assets/Scripts/Sounds/MusicPlayer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e1e4d3015e64094ba63d3f0d1897ff0
+    m_importFrom: Assets/Scripts/App.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 74c9837d348dd384b85293b196e8fd1a
+    m_importFrom: Assets/Scripts/Missions
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd7e6921bbf50684692b8270dc318896
+    m_importFrom: Assets/Scripts/GameManager/GameOverState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ea8ab53c0f3b274da75bb3acf418d36
+    m_importFrom: Assets/Scripts/UI/PowerupIcon.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e839d7999cfdf7343803bfdeca2e17f1
+    m_importFrom: Assets/Scripts/UI/Shop/ShopThemeList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73f0a14f47cc56140a81a93b48cb56bb
+    m_importFrom: Assets/Scripts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c265ccee2af53344b8afad110e7d3b21
+    m_importFrom: Assets/Scripts/UI/MainMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92346bfd13418574799dcdae1ea13a4e
+    m_importFrom: Assets/Scripts/Characters/RandomAnimation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: acacd8c3bf2793f4a8da0727706d7f03
+    m_importFrom: Assets/Scripts/UI/LicenceDisplayer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f27c0ab46fc60b54c9418f9a53ce6448
+    m_importFrom: Assets/Scripts/LevelLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21fd33b5b9f355441a10208e5bc17923
+    m_importFrom: Assets/Scripts/HotFix.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fa665edbabb17143916b1abeb3fa2e3
+    m_importFrom: Assets/Scripts/Themes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1f119face70eef45923442a053ff451
+    m_importFrom: Assets/Scripts/Tracks/TrackSegment.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 99717f894ae2497458966d2b29013ccd
+    m_importFrom: Assets/Scripts/OpenURL.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3b9a3fbc082b1845b05d3848b9d0c10
+    m_importFrom: Assets/Scripts/Consumable/ConsumableIcon.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5397c64509ab92a4b9e8309aebcb66e1
+    m_importFrom: Assets/Scripts/Themes/ThemeData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dc875dc5de77ff64a99457345f14c040
+    m_importFrom: Assets/Scripts/Characters/RestartRunning.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ffe1990268a46ac4a8f2ae0bd2aa35d8
+    m_importFrom: Assets/Scripts/UI/Shop/ShopList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5173e35522b43b644b3cb876a71640c4
+    m_importFrom: Assets/Scripts/Characters/CharacterCollider.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28fd78937280ffb4fb7c90d8776c201c
+    m_importFrom: Assets/Scripts/UI/Shop/ShopItemListItem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5af7c46a271373946be9520e68f0096f
+    m_importFrom: Assets/Scripts/GameManager/Modifier.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d3602e240a7c92419a5f52841329955
+    m_importFrom: Assets/Scripts/Characters/CharacterAccessories.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 57b5aacc6ee422940bfcaa5dae17b59b
+    m_importFrom: Assets/Scripts/UI/Settings/SettingPopup.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e12631dcd7902440b8627d1e5443da7
+    m_importFrom: Assets/Scripts/Helpers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a3ffa528a7147d64094485757d1eb5c9
+    m_importFrom: Assets/Scripts/Sounds
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d04910e08f16b284286beb5af740424f
+    m_importFrom: Assets/Scripts/UI
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06ae645844869884ea54267a12fc772d
+    m_importFrom: Assets/Scripts/Themes/ThemeDatabase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ab28521a0d3b2948abcd80790343b31
+    m_importFrom: Assets/Scripts/Missions/Missions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce47d421cd0db864a9139849f62dedeb
+    m_importFrom: Assets/Scripts/Characters/CharacterInputController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9daeb1760e458fc458c509346dd3d0a8
+    m_importFrom: Assets/Scripts/Consumable/Types/Score2Multiplier.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15e38bebbdc31db468a604b05bd1d75e
+    m_importFrom: Assets/Scripts/Sounds/AssignOutputChannel.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e978e40043db88428c05e36087c01c4
+    m_importFrom: Assets/Scripts/Consumable
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e63f8e8a484fdc4aa2c8817cd339b06
+    m_importFrom: Assets/Scripts/Obstacles/Obstacle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d44710303ccf2f24ea73d3e94c1923ba
+    m_importFrom: Assets/Scripts/GameManager/LoadoutState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 978973479dfbefc4da1cb9ea290661d4
+    m_importFrom: Assets/Scripts/UI/Shop
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4667c4f4d7e27554aa443a56067403a9
+    m_importFrom: Assets/Scripts/Obstacles/PatrollingObstacle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 97e9230e0a08afa44bbeb7b325fc132d
+    m_importFrom: Assets/Scripts/UI/Shop/IAPHandler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3c8340d208287eb49a7fbdf4e7d3bfab
+    m_importFrom: Assets/Scripts/UI/MissionEntry.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2888a5d2c0d19ac4cafc489d100f1860
+    m_importFrom: Assets/Scripts/Characters
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b8f80571ddc3544191bf4295c26178f
+    m_importFrom: Assets/Scripts/Characters/CharacterDatabase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b1d85a2c7e28e1459060064df24f9b7
+    m_importFrom: Assets/Scripts/Coin.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fff2f071f7335eb43a712a702b990041
+    m_importFrom: Assets/Scripts/UI/MissionUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e37e904904515e45968849a10ca9cd4
+    m_importFrom: Assets/Scripts/UI/Shop/ShopUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77874b4fc6a3b8a48bf4144607a2c365
+    m_importFrom: Assets/Scripts/Consumable/Types/CoinMagnet.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a98b047c94c1bd244aa98ab8962433fc
+    m_importFrom: Assets/Scripts/GameManager/GameState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01bf43c79f6bad84784689f6386c2e5d
+    m_importFrom: Assets/Scripts/Obstacles/SimpleBarricade.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1af22539bedd2fa4ebfd5579c083dcbe
+    m_importFrom: Assets/Scripts/Tracks
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25fdfddad24797441b26b254fee9b949
+    m_importFrom: Assets/Scripts/UI/Leaderboard.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2d38032938f5d24a9378d31642e1168
+    m_importFrom: Assets/Scripts/UI/Settings
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 768aa4549a6e8c940b8e79343e10e88c
+    m_importFrom: Assets/Scripts/WorldCurver.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 357943a8c88ecc848b7f5de152a00562
+    m_importFrom: Assets/Scripts/Tracks/TrackManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a6452b9bb1a07a45b7eb7869a8a49ab
+    m_importFrom: Assets/Scripts/UI/HighscoreUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0640f8940c614734da7b92290149caca
+    m_importFrom: Assets/Scripts/Pooler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1493263e4d3cf8a41b7a1b61d99c503c
+    m_importFrom: Assets/Scripts/GameManager/TutorialState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cde6e8597948f342977ee8ceff5319b
+    m_importFrom: Assets/Scripts/Consumable/Types
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 146600338d55eec4e9a748c69cec2a99
+    m_importFrom: Assets/Scripts/GameManager
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0270d17b9d0a6a743a1b997c2aa20be1
+    m_importFrom: Assets/Scripts/Obstacles/Missile.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49f26a9c9db4ce9489119cab283e7a46
+    m_importFrom: Assets/Scripts/UI/Shop/ShopAccessoriesList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5c64ccf50119624ba1a5e67a781777d
+    m_importFrom: Assets/Scripts/GameManager/GameManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 082578361b9f9b740aecdad9d973bbaa
+    m_importFrom: Assets/Scripts/UI/StartButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d2ff63a68eba294b9c24ba9e49b5597
+    m_importFrom: Assets/Scripts/Consumable/Consumable.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a37c4b6ff32586945a6a6fd668bcf32d
+    m_importFrom: Assets/Scripts/UI/Settings/DataDeleteConfirmation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c03d9c5e95a841541a4ce99d52be89fd
+    m_importFrom: Assets/Scripts/UI/AdsForMission.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b55d497bcd828a649b9223fe6938a5e8
+    m_importFrom: Assets/Scripts/UI/Shop/ShopCharacterList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b079b4cc94102f74992912fbe774dd42
+    m_importFrom: Assets/Scripts/Obstacles
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 74cb1264bb5e40d47b4850ac0a649a77
+    m_importFrom: Assets/Scripts/Obstacles/AllLaneObstacle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5f0cbce7f01098428db74fed873c09f
+    m_importFrom: Assets/Scripts/Consumable/ConsumableDatabase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 397d959cc2da2684c8109d35be73c4a5
+    m_importFrom: Assets/Scripts/Characters/Character.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 083a2e2fab42d2d44b6a956a2915611b
+    m_importFrom: Assets/Scripts/Consumable/Types/ExtraLife.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6501d06aab944a44aa6be626d63c7d01
+    m_importFrom: Assets/Scripts/UI/Shop/ShopItemList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f9081cdebc0ab340a242bf3bb99d19b
+    m_importFrom: Assets/Scripts/Sounds/CountdownSound.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56996360c3833804a8891f22514ebfe4
+    m_importFrom: Assets/Scripts/Consumable/Types/Invincibility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab3a312ac373d7843b57ea964f17da77
+    m_importFrom: Assets/Scripts/CoroutineHandler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf9c5d13aee206243beff512afbfef84
+    m_importFrom: Assets/Scenes/Init.unity
     m_exportTo: 
     m_variantName: 
   m_version: 2
