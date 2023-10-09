@@ -3,9 +3,12 @@
 ## 工程介绍   
 
 此工程热更模块基于 HybridCLR + Addressable， 主要展示资源和代码热更的基础工程。  
-将核心代码制作为UPM,将 https://github.com/ManoKing/UPMFramework.git#hotfix 添加到  
+将核心代码制作为UPM，将下方两个URL依次  
+1, https://gitee.com/focus-creative-games/hybridclr_unity.git  
+2, https://github.com/ManoKing/UPMFramework.git#hotfix   
+添加到下方图片标记处   
 ![Image](https://github.com/ManoKing/UPMFramework/blob/main/ReadMe/add_url.png)  
-热更部分即导入项目中  
+热更部分代码即导入项目中  
 
 （1）代码热更基于[HybridCLR跳转](https://github.com/focus-creative-games/HybridCLR)  
 （2）资源热更基于[Addressable跳转](https://docs.unity3d.com/Packages/com.unity.addressables@1.21/manual/index.html)     
