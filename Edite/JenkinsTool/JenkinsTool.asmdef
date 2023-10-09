@@ -1,8 +1,10 @@
 {
-    "name": "Global.Editor",
+    "name": "JenkinsToll",
     "rootNamespace": "",
     "references": [
-        "HybridCLR.Editor"
+        "HybridCLR.Editor",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor"
     ],
     "includePlatforms": [
         "Editor"
@@ -13,12 +15,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.focus-creative-games.hybridclr_unity",
-            "expression": "[1.1.18,10]",
-            "define": "NEW_HYBRIDCLR_API"
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }

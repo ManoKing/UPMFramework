@@ -2,7 +2,7 @@
   "name": "com.upm.framework",
   "displayName": "UPMFramework",
   "description": "UPM Framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2020.3",
   "license": "GPL-2.0-or-later",
   "documentationUrl": "https://github.com/ManoKing/UPMFramework",
