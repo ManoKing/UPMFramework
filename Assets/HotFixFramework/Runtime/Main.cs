@@ -36,7 +36,10 @@ public class Main : MonoBehaviour
 #if !UNITY_EDITOR && UNITY_STANDALONE_WIN
         StartGame();
 #else
-        StartCoroutine(DownloadWhitelisted());
+        // 打开白名单
+        //StartCoroutine(DownloadWhitelisted());
+        // 关闭白名单
+        StartCoroutine(UpdateAddressablesContent());
 #endif
     }
 
