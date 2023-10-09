@@ -13,16 +13,1896 @@ MonoBehaviour:
   m_Name: AssetReferenceDB
   m_EditorClassIdentifier: 
   m_assets:
+  - m_assetDatabaseId: e5b89582fc1b4ed418e9b5f08cca1e59
+    m_importFrom: Assets/HotFixFramework/Edite/HybridCLR/Global.Editor.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d3dc46148dd06046a83193bdbaa8507
+    m_importFrom: Assets/HotFixFramework/Edite/JenkinsTool/JenkinsTool.asmdef
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: c5066f825f71d514d8552a3484fe5708
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 2f34bc9dde117a948929869d912db742
-    m_importFrom: Assets/Res/Scenes
+  - m_assetDatabaseId: 1a8357532218e6f49a9bb9401382d6d4
+    m_importFrom: Assets/HotFixFramework/Edite/HybridCLR/BuildAssetsCommand.cs
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 66b8e0d49d006dd4cb32d8b0fa444728
-    m_importFrom: Assets/Res/Scenes/Start.unity
+  - m_assetDatabaseId: 25a916003603c154996d03d8b0665707
+    m_importFrom: Assets/Res/Dlls
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f65228810ab53b04d85d192ca3b955a5
+    m_importFrom: Assets/Res/Dlls/System.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05f8d5c2fe68f94418e9aae7e59c681b
+    m_importFrom: Assets/Res/Dlls/UnityEngine.CoreModule.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bacceaa0c8da1e74181f3c3e55775660
+    m_importFrom: Assets/Res/Dlls/mscorlib.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f34748688ff94b04598f94281f4758e9
+    m_importFrom: Assets/Res/Dlls/Unity.Addressables.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad4753f7e6aab094aa8e25c80d6ea386
+    m_importFrom: Assets/Res/Dlls/Unity.ResourceManager.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c82786f84af255d47b6a194980c6cea7
+    m_importFrom: Assets/Res/Dlls/System.Core.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7cee599188f62dd41bbd26af8c5623b5
+    m_importFrom: Assets/Res/Dlls/HotFix.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ade53381588b99f468e408827ab913d7
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Dlls.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 735e874f947d0e143a6b4e83f8a7283a
+    m_importFrom: Assets/AddressableAssetsData/AddressableAssetSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94e7cb4169d7f1e4689444ec286e3dd5
+    m_importFrom: Assets/AssetGraph/AssetGraph.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86e30ea9bccef9c49bdebf77ecf565a9
+    m_importFrom: Assets/AddressableAssetsData/Android/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46a549cf223b965419395d1eb67697d5
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Built In Data.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76221483d69bd3b4aac4488c3097199d
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Characters.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 509be79408e794b4eb1614a087f12f42
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Coin.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d99611ab52ff789479179f6e24dde79d
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Day-Theme-Obstacles.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6fc4762233972aa40bcd09bf0410eb96
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29cf561e1871fa543adc83369c628ce2
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Default-Sky.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2981e407081d08d4887a5ef39df59609
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Default-Zones.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e2c827a9a9fb83b4193c2f8d1d7779d0
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Duplicate Asset Isolation.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fab46ba20057801419f1a975233c2cbd
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Night-Sky.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10ae8408a953cd14e95d879ea1e28ec9
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Night-Theme-Obstacles.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9eb1f1c41da675e4480e553f40ccac60
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Night-Zones.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 071019c7a516a7748a2dc1448a67242b
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Particles.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4bc7133680d0814388173d245e6e7c2
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Powerups.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e804a7effdc04f24b992534d7b3594d8
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/0ee8914add8bf184eb2669a5f9b6f538_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2fc035de78f1ea43abe0261a378f9fc
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/0ee8914add8bf184eb2669a5f9b6f538_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df57255a25e952d4a882338d68f54e0a
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/1fe38e9c980a3ac4fadbc3ac950cbcf8_PlayerDataGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0325b8952f2adf44083235b565a47d8d
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/3c83d1a158a080f4cb8a94a271bbfb92_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0ada88e3df8cd745abb86063ce21e49
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/3c83d1a158a080f4cb8a94a271bbfb92_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ecf01cd5caa75cb479b944033aa91de1
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/4c4981ffc6cbd384f83bfa48976554ea_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67ac5bb53e8413248ad890f97d440439
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/4c4981ffc6cbd384f83bfa48976554ea_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7f560970ee67c6448953f15f7ea0fe3
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/6da73523aa5283d4582ef072976f7b42_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 791fb63850b0efe479726783edc072ea
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/6da73523aa5283d4582ef072976f7b42_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6c09db96b6b7c484bb3414ebd9b1602a
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/39cca0338cf24d84983f02f76cd584ea_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52a35c444b2203d4ea3bf4ad92981406
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/39cca0338cf24d84983f02f76cd584ea_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6813088d9f0c4ac4fb31ad5964b61c1b
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/42bc777f296585a479930a4d8fb16c27_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93056734fbbe67845a574a7521ce0142
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/42bc777f296585a479930a4d8fb16c27_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1489f7063a4ead94e9ca07302dd2f11e
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/95a3c2cd5e0a1b745a3fd1ce16c01ff9_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f568aa2337d236a449922de6d961fbea
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/95a3c2cd5e0a1b745a3fd1ce16c01ff9_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 12eae49895653ee40960355053e44bd4
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/0188ddff47d9b214ba640c0e529e4332_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 651de64b823f4894886e1a0af5fc5503
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/0188ddff47d9b214ba640c0e529e4332_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ea1abb9d94e3909498d283a058f0c6e0
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/34963f7c1bf93e54f9196484126a6d7f_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5547cd13b730def47b62a2430358df71
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/34963f7c1bf93e54f9196484126a6d7f_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 319ae0878c1110f4991e668cb11210f7
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/89278b1b8bdb81c4996129605154b1d9_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 025fae613a04243428f577ad1ee50562
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/89278b1b8bdb81c4996129605154b1d9_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db1703389e2893a47bbfb0d1d53236e8
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/a8fe4e1fa1fea394a996ab4b4963537b_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 398dfe012f75ed9459c9b73e6340452e
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/d5b757e4f3f1d324089b3212762f79c6_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bcf2e3926b76d4541990e53c88f8337f
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/d5b757e4f3f1d324089b3212762f79c6_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 48662441bf1a8334b82d55940bbe2b40
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/e293c425bd8527844ad6f809d4806dd7_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b71267de56b7e6b48a4c0c4ade2332d2
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/e293c425bd8527844ad6f809d4806dd7_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d00b3dd125fb3e142b299a6e92bb2d0c
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/ecc31cf11925dff4aa3d8130ac62b218_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15f267499226fec4796769c20387e637
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/ecc31cf11925dff4aa3d8130ac62b218_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5c335391d8517148b980dfe0fe71ea6
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/ecca703ac90113346a3923a505db5daa_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d63c35d7e6b1074bbb50e55baf660e6
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/ecca703ac90113346a3923a505db5daa_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6d74b33b2bb73b498a49b9344482f4b
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Themes.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 960939437f96bf942a92ab47685c085e
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Tutorial.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d0ac92b4f2a00540ae4a633719d68b2
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/UI.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11229673ec6cea44facba91b6ff14f06
+    m_importFrom: Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d84f0c55c89eba48b446fe39eec2be7
+    m_importFrom: Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f3ca128a86c1fc428200a21e2f190e3
+    m_importFrom: Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d312b493c3ac6b4c8abe0255be79512
+    m_importFrom: Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d920bfe0779f6ae4d8ff524475b546cc
+    m_importFrom: Assets/AddressableAssetsData/DataBuilders/BuildScriptVirtualMode.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b326c184dbebf6b4e8e5be689c39d470
+    m_importFrom: Assets/AddressableAssetsData/DefaultObject.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 387831cc311ee4903a6443b5a82a78bf
+    m_importFrom: Assets/AddressableAssetsData/OSX/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5a90c32fafb212418ba83e1805cd04c
+    m_importFrom: Assets/AddressableAssetsData/Windows/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03a6736ea13726f4da9cce61eab32c77
+    m_importFrom: Assets/HotFixFramework/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7bf2e2608e9e304d89b109c8a24403e
+    m_importFrom: Assets/HotFixFramework/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32e065cd498609744bc2cc9d5c2d9c33
+    m_importFrom: Assets/HotFixFramework/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: babb8cff384e1924180fb6c0d64c6130
+    m_importFrom: Assets/HotFixFramework/Plugins/SimpleJSON/SimpleJSON.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93c11cd36ebebd542a2e97841db59a34
+    m_importFrom: Assets/HotFixFramework/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73a17a1eaaaa4f844837e3523e2e945b
+    m_importFrom: Assets/HybridCLRGenerate/link.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b468e53677ceeeb49bcda5deb95250aa
+    m_importFrom: Assets/Res/Animation/Animators/CharacterAnimation.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 813e40250a4b86342aa7ed5ac5906f4a
+    m_importFrom: Assets/Res/Animation/Animators/Dog.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 420ad091cd27d6649b82cb61b4e1e804
+    m_importFrom: Assets/Res/Animation/Animators/Fishbone.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1ae7832a1f811540a8b9b64dd247ead
+    m_importFrom: Assets/Res/Animation/Animators/Heart.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66171c2303affc64a8343b292d87803c
+    m_importFrom: Assets/Res/Animation/Animators/Magnet.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b02c31c22c8c5eb4eae1187ce575f979
+    m_importFrom: Assets/Res/Animation/Animators/MenuActors.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92b48ddff05b0f740990170bc4e5a6a9
+    m_importFrom: Assets/Res/Animation/Animators/MenuEnvironmentProps.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4f83147ae718cc4cae28bf24590da59
+    m_importFrom: Assets/Res/Animation/Animators/Multiply.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a41010c8e687cb946bd98efd6045e35b
+    m_importFrom: Assets/Res/Animation/Animators/Rat.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 130af4be397ce3c4bafaa0209dfa1844
+    m_importFrom: Assets/Res/Animation/Animators/ScoreMultiplier.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 149f7de1965364b4a9c23518d455c0da
+    m_importFrom: Assets/Res/Animation/Animators/Sparkle 1.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ea898411829e377448cd1f8c7f3307d9
+    m_importFrom: Assets/Res/Animation/Animators/Sparkle.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 676cfaf3229d2eb4089595d485a2f42c
+    m_importFrom: Assets/Res/Animation/Animators/Star.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c122afc4ce1dbf4891452b6c09e6f9d
+    m_importFrom: Assets/Res/Animation/Cat_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88b2e8e5e041b074c87388a900d4d60d
+    m_importFrom: Assets/Res/Animation/Cat_Death2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 07bcfd54beda6dd42a225a00d5f2c1b7
+    m_importFrom: Assets/Res/Animation/Cat_Death3.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9584e04906e17524e9241fff3ebdbc6d
+    m_importFrom: Assets/Res/Animation/Cat_Falling.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71d992f52ae71374a9dc7c54ed7bfad7
+    m_importFrom: Assets/Res/Animation/Cat_ForbiddenDance.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f654e2100b850f7459ae92b11f5a3e2d
+    m_importFrom: Assets/Res/Animation/Cat_HappyDance.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f98d5050f70fc7f479df8195dac6cdc1
+    m_importFrom: Assets/Res/Animation/Cat_HitHighWall.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98a2f1df84b0a554593bcc40c31db37a
+    m_importFrom: Assets/Res/Animation/Cat_HitWall1.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7d19891501c4cb4987d62dadf321c29
+    m_importFrom: Assets/Res/Animation/Cat_Idle1.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b9ee049a28fd754fa0bcc69d030a1fd
+    m_importFrom: Assets/Res/Animation/Cat_Idle2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e4143f04ab45b349862678ebf01c95a
+    m_importFrom: Assets/Res/Animation/Cat_Idle4.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4aedf45fe7389f6499430917841b9c9b
+    m_importFrom: Assets/Res/Animation/Cat_IdleHappy.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad6ac1be502324545a7eb918b123e7dc
+    m_importFrom: Assets/Res/Animation/Cat_IdleSad.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0acece627e204ac4ba299db2aa08e1d7
+    m_importFrom: Assets/Res/Animation/Cat_Jump.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5d2ede1140b4a34eb5f4d7569a2f986
+    m_importFrom: Assets/Res/Animation/Cat_RunLong.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac868813a16d6744dbbbc1b005a6d778
+    m_importFrom: Assets/Res/Animation/Cat_RunShort.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f608a49f7f7fffd478322957af42c6aa
+    m_importFrom: Assets/Res/Animation/Cat_RunShort2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0abd8be76cd66f46bdba3dd45ee62d3
+    m_importFrom: Assets/Res/Animation/Cat_Slide.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e3997f7ca676d84eaa37ed695899be6
+    m_importFrom: Assets/Res/Animation/Cat_Start.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5bedcafb25855d84394b9b7eb5869bc4
+    m_importFrom: Assets/Res/Animation/Dog_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6c6236ffea8b3b49862086c2f48a875
+    m_importFrom: Assets/Res/Animation/Dog_Idle.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61d4460f2263ab949964c65bf9dbfb8e
+    m_importFrom: Assets/Res/Animation/Dog_Run.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6c39a24db89f9b44f8cfbb1ee9d2bcd7
+    m_importFrom: Assets/Res/Animation/Fishbones.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b350d3184107b8b41a8bda36a0a51445
+    m_importFrom: Assets/Res/Animation/Heart.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c204816c584e8fd48a9e5c55a4d559b0
+    m_importFrom: Assets/Res/Animation/Image.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ce4a1fa05befd54f85bfa2e9043bfee
+    m_importFrom: Assets/Res/Animation/KO.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8838e486d47d98040adeaa7b200fb07f
+    m_importFrom: Assets/Res/Animation/Magnet.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71297c77242e18649b0af4273c1581df
+    m_importFrom: Assets/Res/Animation/Materials/CatAlbedo.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25e2210d7e3464d4ba0a975759d2c18b
+    m_importFrom: Assets/Res/Animation/Materials/Default_Material.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eb94c7e86b08f394c87a48c784d8ae70
+    m_importFrom: Assets/Res/Animation/Materials/DogDiffuse.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85c3997454168064280d79e66e8b345d
+    m_importFrom: Assets/Res/Animation/Materials/DumpsterAlbedo.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 853573f93df7776469b9a13fb0f1acff
+    m_importFrom: Assets/Res/Animation/Materials/EndlessRunnerSourceImagesTexturesBinAlbedo.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a50f50d60db8584d8079d8fc0b627ad
+    m_importFrom: Assets/Res/Animation/Materials/lambert1.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2bd977df1ee381e43903ee548cbb0b81
+    m_importFrom: Assets/Res/Animation/Materials/pasted__VCOL3.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3696958962c77354ebe1cfe69ca8db21
+    m_importFrom: Assets/Res/Animation/Materials/RatDiffuse.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3432023ffc01eac4aa7fa96ffb1de2f1
+    m_importFrom: Assets/Res/Animation/Materials/WheelyBinAlbedo.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f0bdd1a545262546a88cd46d13156f8
+    m_importFrom: Assets/Res/Animation/MenuActors.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 767e4364a0b09234298acaeb98f0ad13
+    m_importFrom: Assets/Res/Animation/MenuEnvironmentProps.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 968ee66cd79b45a4090925b4d964b490
+    m_importFrom: Assets/Res/Animation/Multiply.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d2b18ab5b0d98e4e96bce5fbaea35f7
+    m_importFrom: Assets/Res/Animation/ObstacleBin.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3bbb4725b7e107143a0d7eeaa52be855
+    m_importFrom: Assets/Res/Animation/ObstacleRoadWorksBarrier_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bbccc718107e16e4d9e070aa75df5218
+    m_importFrom: Assets/Res/Animation/ObstacleRoadWorksBarrierHigh_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b635fbb467c2e84f9b8b0d2cc7a19fd
+    m_importFrom: Assets/Res/Animation/ObstacleRoadWorksBarrierLow_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89db83d228927234ab3737e12e64660e
+    m_importFrom: Assets/Res/Animation/ObstacleWheelyBin.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 58219e8eced12ce4c9723796d507d515
+    m_importFrom: Assets/Res/Animation/ObstacleWorkCone_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 97d3d75c59ef7f544808ac9ea51905f2
+    m_importFrom: Assets/Res/Animation/Rat_Death.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1fa0d134c763a194ea3daba8ff85489a
+    m_importFrom: Assets/Res/Animation/Rat_Run.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e354a685dd1451649b3abf0f74e32ac6
+    m_importFrom: Assets/Res/Animation/Sparkle.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe2b5d4c5e9f2ab47a8b86613546eeee
+    m_importFrom: Assets/Res/Animation/Star.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1eff6918e2e0c264087f33c47524dbe3
+    m_importFrom: Assets/Res/Animation/Tutorial/slideAnimation.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1690e43874cf4c4291ca574380acc32
+    m_importFrom: Assets/Res/Animation/Tutorial/slideAnimationDown.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bac864b136a1a145813f5d2a1c17c8d
+    m_importFrom: Assets/Res/Animation/Tutorial/slideAnimationUp.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b6b6fb7a7a6fdf4cabb6ab682beb842
+    m_importFrom: Assets/Res/Animation/Tutorial/TutorialArrow.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ae64d0eaec8d6f4f9436fce6117048d
+    m_importFrom: Assets/Res/Bundles/Characters/Cat/character.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 473ffa016efe3724cad08daa78e3d12a
+    m_importFrom: Assets/Res/Bundles/Characters/Raccoon/character.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d4807022e73aa34ab8f01892dbdfe1d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Industrial/IndustrialWarehouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81bf7d820e3d0554e9ea968eeba33052
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Industrial/IndustrialWarehouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e0040302c7a83c4d8e1ddf3979d6979
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Industrial/IndustrialWarehouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 22facfbe232a90b45b681c638f2e490d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b718c14c1e836cc4a8ca91d61382c504
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleDog.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b19a0bd8ede69fe4683dff84150a047b
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleHighBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d68ac797bf384f84bbca159dc2a6e4d7
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleLowBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec0335ae7fd65b74898920e51d042abd
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleRat.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82eb370d70e50344cb6eeb919a1429b8
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleRoadworksBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0070c0f7d7cdcb4eb7176be4a87caa9
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleRoadworksCone.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9056217b765e1b4893238b9e7ebddbc
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Obstacles/ObstacleWheelyBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1225524528f67794ead226c3401f6bd6
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Sky/DefaultCloud01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4217d014d522f94bb0a059a38e2cb14
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Sky/DefaultCloud02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 480053abe3ba0aa4883a1b63c0deee9d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Sky/DefaultCloud03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dcbeb2ef97131d241b111f35d4788477
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsGarage01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efcbfaf146228ad40ae6c878d7806d64
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsHouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d6fcbaf51bca6b4594f12ca78b10a69
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsHouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 544006c54b323e9419926850d7e3fbac
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Suburbs/SuburbsHouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d80a5ee0a199154784a904ed88da003
+    m_importFrom: Assets/Res/Bundles/Themes/Default/themeData.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2f8abb5887b4af046b2f7fe9190c9d1d
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBrickWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e145376c7d52444b97856849e2a7bd2
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBrickWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 627ea187cfa7b524482f0725ce9ffafe
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBrickWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03576c724d3dcac4690f6ede40e47639
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 391abdb78f486ff4abd13845846e0f05
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b7ee2db83af4fe4da3b2af7d258d635
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: adb7c187800cf1d4697c2ec26f0a4bd1
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanBuilding04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a5b1ed81a7bde440aa6d2317adcd689
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanDumpsters01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65d6a8c569ebabb48aa95414228089bc
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanDumpsters02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01466a005c28535479de3c39b3304e3f
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanPlasterWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 423b9549e9d84034aac50ab7e0459e77
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanPlasterWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d998870eb4591747a98ab06751e0227
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanPlasterWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f0db6c5e9d5e3e4d9c0f51362e59d00
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanRoadIntersection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 747e617dac045eb4f9fa9978b75bb475
+    m_importFrom: Assets/Res/Bundles/Themes/Default/Urban/UrbanRoadTSection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: baf31dc160e3099428326b5a83db46cd
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f9eed4d340d06141a3c57dc69d8ed2c
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b55f4706bf1aa048a56792177cb63dc
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4530c9317086c24e956c8e653d7cfc1
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b87d64eb926fa841a7a41465b9e8b04
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleDog.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61bb777a99260874f88fe72c93801af9
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleHighBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9b51c81c20d09b49a078e5821bb9d58
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleLowBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35231d694d6c0ae4da2714b8969719cd
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleRat.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9be026198609a494aae8cec4aba2c813
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleRoadworksBarrier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39c9e0746ca1a4b4995befba3266d4f6
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleRoadworksCone.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6789d11662a4a2d4b86aac2f6082e0a0
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Obstacles/ObstacleWheelyBin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f788e812c45a0754a9e0342be76a1750
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Sky/NightCloud01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 07a627dbf273e1d45bcb01af87c57cbb
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Sky/NightCloud02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8dc97c4ee68c61247bc0dcfb3fa8237e
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Sky/NightCloud03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 226b344b8bdac594ea142309336337fe
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsGarage01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49aa51c23aae1814da08106efff9839f
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsHouse01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 654b47fe18f35714aaf36bfa70b02983
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsHouse02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b27a4d1577ea1bd4f8a7f3dce60bf85c
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Suburbs/SuburbsHouse03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca6db81f67984284191d6a142204de55
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/themeData.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd02fb81cd8dfa94fb3811b38b78b386
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBrickWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10f2606a4e949f5489f1ce27b91600df
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBrickWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4add46b17d5814744bb1498b198ed25d
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBrickWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed24d8dd91f5c544c8df6d3cf6dffc4c
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de7a496cae0fcec4ead023eb1ebf6257
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fee9019dfd7946b40892dcef5d3fcc42
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e01ea15bda91ee542a24f9c6f54bf6d3
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanBuilding04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d29e217ab3c1874d8d99169dabbbe35
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanDumpsters01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7a3bd1684c9dc34895c2b9f97f1aeae
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanDumpsters02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5bc3c5bd95058764489501ac1024b7ea
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a4b7a23296b48b4981881bd17953ed7
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee7969661b2b1e94891b8593e383883d
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ff30b5076d96ac4eb9ef7bf11a1bf5b
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanRoadIntersection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24e342794dd5ea94fa4836beedc3a776
+    m_importFrom: Assets/Res/Bundles/Themes/NightTime/Urban/UrbanRoadTSection.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb89e33902259704db92150f0a4ef290
+    m_importFrom: Assets/Res/Font/FontLicense.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab2cfde409d710b47b0b502877abb479
+    m_importFrom: Assets/Res/Font/LuckiestGuy.ttf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d34289ce016bed842aedd82ddadb5e50
+    m_importFrom: Assets/Res/Materials/BackgroundCircle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3dc78b81a4d12bd42bd2c32e62d95511
+    m_importFrom: Assets/Res/Materials/Bin.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69829cac8b260bf41b9f2f02e4309ca8
+    m_importFrom: Assets/Res/Materials/BinBag.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f032c1b912f07aa499bc86208c214db8
+    m_importFrom: Assets/Res/Materials/BinNight.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8c02decebafb7246953032df24e5c77
+    m_importFrom: Assets/Res/Materials/BlobShadow.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9eb722b0ceeb9c34fa2b2afbc8a97dd1
+    m_importFrom: Assets/Res/Materials/BrickWall.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7e8c93fba6557646bbe79ad80e49536
+    m_importFrom: Assets/Res/Materials/Car01.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba32940091fa1bf4eb3605bc89fc4cd2
+    m_importFrom: Assets/Res/Materials/Car02.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb89294923508294fa35d858834725f7
+    m_importFrom: Assets/Res/Materials/CatOrange.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11a0d3ec49f92f54996214abdc26076e
+    m_importFrom: Assets/Res/Materials/CloudMaterial.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 099f8ab5055c38e4fa9b02975140c339
+    m_importFrom: Assets/Res/Materials/Clover.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b6127cf676e2864fa12c9e37a94440d
+    m_importFrom: Assets/Res/Materials/Construction.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46634ac69176c504294d6187d01ffcba
+    m_importFrom: Assets/Res/Materials/ConstructionGear.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b505e0eb0d4b14b498ea6243a5ef882e
+    m_importFrom: Assets/Res/Materials/ControlRig.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98bdd2e108de67d439c390dc7cb78caa
+    m_importFrom: Assets/Res/Materials/CorrugatedMetal.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e51bbcfc510c86f4c9669cd35e38c510
+    m_importFrom: Assets/Res/Materials/DefaultParticleReplacementMaterial.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77b24526fea2ba6409c54ea3e9a43332
+    m_importFrom: Assets/Res/Materials/Dog.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ead65696b3f69334fa5ec74c17f175be
+    m_importFrom: Assets/Res/Materials/DogNight.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c4cead7e53929f448c0443a1c2b53a9
+    m_importFrom: Assets/Res/Materials/Dumpster.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad7dda0662972b74ab9993189ff514c0
+    m_importFrom: Assets/Res/Materials/ExtraLifeParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2a61585b42736f498a47f62a7424de1
+    m_importFrom: Assets/Res/Materials/Fishbone.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c69405ac74a42949b5bffb776f6ad62
+    m_importFrom: Assets/Res/Materials/FishBoneParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ae7f702ec351074699756ad9e5ccd8a
+    m_importFrom: Assets/Res/Materials/Graffiti.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b377babdac9686b4690150883dbaedca
+    m_importFrom: Assets/Res/Materials/Grass.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 142f6f14a44bc3c4c90d45c416f81fca
+    m_importFrom: Assets/Res/Materials/Heart.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ccb801525444644c930f82f43032b93
+    m_importFrom: Assets/Res/Materials/LightCone.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b0300d94f57f56b42bcdc8dd2c4319f8
+    m_importFrom: Assets/Res/Materials/LightGlow.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 58fe4014eb2279041837044e643ef98f
+    m_importFrom: Assets/Res/Materials/LightPool.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c29c3d6edae27f74abbf2babbbdf4b9f
+    m_importFrom: Assets/Res/Materials/Magnet.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06d47b91464ba0548b33f8cf9caa4707
+    m_importFrom: Assets/Res/Materials/MagnetSparks.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85d81c232c824d442b725b70e65aeee5
+    m_importFrom: Assets/Res/Materials/ManHole.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 53703d1e7d47f7a4aa2379d62e3b9ad0
+    m_importFrom: Assets/Res/Materials/MultiplierGlowParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8fe824c8cef63a544aeb15cf9049f672
+    m_importFrom: Assets/Res/Materials/MultiplierParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9599d0bd4f471d643a454941ba19309b
+    m_importFrom: Assets/Res/Materials/Obstacle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 634af5e9b95b83f40ab50b103810bb3c
+    m_importFrom: Assets/Res/Materials/PartyHatAndBowtie.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a360c9ac9532bde44ac815403ab03c52
+    m_importFrom: Assets/Res/Materials/PickupParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f4ed16685a4be14fab2d5de621fb6ab
+    m_importFrom: Assets/Res/Materials/Pipe.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 540c9cb7b5d464f44b60de14713427a3
+    m_importFrom: Assets/Res/Materials/Plaster.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9da975568b72c3e48b3fde33690d59be
+    m_importFrom: Assets/Res/Materials/PuffParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fefa0546547167848be43384af1c0d43
+    m_importFrom: Assets/Res/Materials/Racoon.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f7f815499f6a9845acf83e247f57640
+    m_importFrom: Assets/Res/Materials/Rat.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1bb73307ace8b344b87af530521230c1
+    m_importFrom: Assets/Res/Materials/RatNight.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10e8db89de774a84c9cfd9eb0e469ae0
+    m_importFrom: Assets/Res/Materials/Rubbish.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dda22a8f7e415d94c824641953dc38a8
+    m_importFrom: Assets/Res/Materials/Sardines.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5b60a839d5016e94184e8ca7757cbe87
+    m_importFrom: Assets/Res/Materials/Shield.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dc6dac39dcb64674aab03f9e54dae6f7
+    m_importFrom: Assets/Res/Materials/Skip.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1e84f069bd3a6d44ba8070fba940ec8
+    m_importFrom: Assets/Res/Materials/Sky.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4522020fbcc785746b2791879f215e4a
+    m_importFrom: Assets/Res/Materials/SmokePuff.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 04421d6c9a0d6724b82f7dbaddd32bab
+    m_importFrom: Assets/Res/Materials/Sparkle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 938da958197a0fe46a73e6d4df71703e
+    m_importFrom: Assets/Res/Materials/StarGlow.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee7ef3320c6606b4f8856afbdabe7c14
+    m_importFrom: Assets/Res/Materials/StarInner.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7c53bd5f7e5a31479f9295710f0c921
+    m_importFrom: Assets/Res/Materials/StarOuter.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46caf18aa6a7c1b4f99ae7dea44f7d57
+    m_importFrom: Assets/Res/Materials/StarParticle.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f3990293bef2fe54697307460d45c3e2
+    m_importFrom: Assets/Res/Materials/Stone.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f47ac399c05506b4bbdc47854242e783
+    m_importFrom: Assets/Res/Materials/StoneWall.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a31a8a627e6f7d24aa0af123ce1403c6
+    m_importFrom: Assets/Res/Materials/TreeBranch.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1da5a75d83b2b64d9684707d810f8c7
+    m_importFrom: Assets/Res/Materials/VCOL.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fe38f4066e12ac48a6be1778e8a8f3c
+    m_importFrom: Assets/Res/Materials/WarningLight.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 513ad1869b4ea054fa6f8045db0b4ff8
+    m_importFrom: Assets/Res/Materials/WashingLineClothes.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7240c07fe5949594d986ba5a52ff74a3
+    m_importFrom: Assets/Res/Materials/WheelyBin.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: da664df448f82244e9298f1b25ecab3b
+    m_importFrom: Assets/Res/Materials/WoodSlats.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b755775ae966024fab169f5ae2e95d6
+    m_importFrom: Assets/Res/Models/Cat.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81007139cb013d74dade2263bc62dfec
+    m_importFrom: Assets/Res/Models/CatBase.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa919356c5fc48a47be5db94efcc4613
+    m_importFrom: Assets/Res/Models/Clover.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b0efa08f7db72d4f8c6e62035b9909b
+    m_importFrom: Assets/Res/Models/Daytime/Apartments01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3614af98a643df04283bed41c8f4f7d4
+    m_importFrom: Assets/Res/Models/Daytime/Apartments02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3d135726eb51644a93ee63a0c6af8be
+    m_importFrom: Assets/Res/Models/Daytime/Apartments03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 587752f89cb859441938db94d9e5d1e4
+    m_importFrom: Assets/Res/Models/Daytime/Apartments04.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e492f336a8502944cb8729237e067291
+    m_importFrom: Assets/Res/Models/Daytime/BackgroundBuilding01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8358882a52ff2274a942a2128ae80355
+    m_importFrom: Assets/Res/Models/Daytime/BackgroundBuilding02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28288b28edded764b843730ced06fb8c
+    m_importFrom: Assets/Res/Models/Daytime/BackgroundCircle.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8a5b7c574f595ad4bb4e7a59a1829947
+    m_importFrom: Assets/Res/Models/Daytime/Bin01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 713124634fbfebc43a3788c3a73c6a74
+    m_importFrom: Assets/Res/Models/Daytime/BinBagClosed.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f6f8aef6ad2c6441a3fe10ca76836c2
+    m_importFrom: Assets/Res/Models/Daytime/BinBagOpen.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a3a59b2bb313ed049b43ffee79f2a52b
+    m_importFrom: Assets/Res/Models/Daytime/BrickWall.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c465382239af23b42aed17eb30f6a2b0
+    m_importFrom: Assets/Res/Models/Daytime/Car01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6ced1c4e07951e47a0cf24db677b719
+    m_importFrom: Assets/Res/Models/Daytime/Car02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 45547b719ccf6934394f6d798a4263a0
+    m_importFrom: Assets/Res/Models/Daytime/ClothesLine01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e46b5f9a6a739f34faebf078991724a0
+    m_importFrom: Assets/Res/Models/Daytime/ClothesLine02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ba23005c087ca5478a51ef4be453e69
+    m_importFrom: Assets/Res/Models/Daytime/ClothesLine03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f04f128ee146c7047a6a4a0ccc4a1bdc
+    m_importFrom: Assets/Res/Models/Daytime/Cloud01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b9892fba65295a4b839fa96a5b7b0f8
+    m_importFrom: Assets/Res/Models/Daytime/Cloud02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3c6f3a775938914f92f111623346cbf
+    m_importFrom: Assets/Res/Models/Daytime/Cloud03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 599c2db30943fc144aa95352e50543e2
+    m_importFrom: Assets/Res/Models/Daytime/DumpsterBlue.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c84695815df82b242ad2319af4d44725
+    m_importFrom: Assets/Res/Models/Daytime/DumpsterGreen.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a33ffae9fda0c504bbfd05149568e5e9
+    m_importFrom: Assets/Res/Models/Daytime/DumpsterRed.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb32c5aaab6d0254486fbb33454b33f7
+    m_importFrom: Assets/Res/Models/Daytime/Fan.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62838b17c29c25b48b3cb0b058486aab
+    m_importFrom: Assets/Res/Models/Daytime/FarBackBuilding01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b522e171171f3c4ca45046c30055569
+    m_importFrom: Assets/Res/Models/Daytime/FarBackBuilding02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 849c1240a7018e340883c9a4738cabac
+    m_importFrom: Assets/Res/Models/Daytime/FarBackBuilding03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b71d9a866ea5bd84e9d072202051e4ce
+    m_importFrom: Assets/Res/Models/Daytime/FireEscape.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b88b10aa653a62345a5f8ec4dd768a2b
+    m_importFrom: Assets/Res/Models/Daytime/Garage01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af8c8e7902606fc41be5a1fc629dce4a
+    m_importFrom: Assets/Res/Models/Daytime/Garage02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30b14536b23b6834ca16bb23833d1d88
+    m_importFrom: Assets/Res/Models/Daytime/Garage03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 490f40e9f2ec1db4baaa4f6a827b71e2
+    m_importFrom: Assets/Res/Models/Daytime/Garage04.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00dab2cfce604f245a13349393a093a9
+    m_importFrom: Assets/Res/Models/Daytime/Garage05.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c271e5e231eec184291fb06f0cc66382
+    m_importFrom: Assets/Res/Models/Daytime/Garage06.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7401b0fe5c52e674b86d92ba3bfc92a3
+    m_importFrom: Assets/Res/Models/Daytime/GrassClump01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3940fade9e1ac7e44b7df894133991ea
+    m_importFrom: Assets/Res/Models/Daytime/House.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: faf831e7ae738ee4c809bfbec1d00f53
+    m_importFrom: Assets/Res/Models/Daytime/House02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c16f1ed19bd8cc44ad546cbbd8508f3
+    m_importFrom: Assets/Res/Models/Daytime/House03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c4f9075be7fa3d4aafdf183bb396b59
+    m_importFrom: Assets/Res/Models/Daytime/ManHole.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b75d09c3bf9ba64cbccca5ff894cbfa
+    m_importFrom: Assets/Res/Models/Daytime/Pipes.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b73697bb416ade2438c2bca5fae0023f
+    m_importFrom: Assets/Res/Models/Daytime/PlasteredWall01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e98075cb4974df0408eb7ee2083b60f8
+    m_importFrom: Assets/Res/Models/Daytime/PlasteredWall02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a26112fdfc12324d8fee247fbeb44e7
+    m_importFrom: Assets/Res/Models/Daytime/Road01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5dc9820c76494354e9e924a6c791efa7
+    m_importFrom: Assets/Res/Models/Daytime/Road02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 278d5c6b4a4b61548afccfdb78e4b8a8
+    m_importFrom: Assets/Res/Models/Daytime/Road03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44bfb6e7a0a6cd541bb29e99af852562
+    m_importFrom: Assets/Res/Models/Daytime/Road04.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de08d6c7cb409ce42a256e76ef1a7aa2
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksArrow.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30ef3480996caf140bcd7afeae88ea89
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksBarrier01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7715405e25bba848b01157690c5fe35
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksBarrier02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2200ee472f2e3d49a94ca90b6acde3e
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksBarrier03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06fd29260038fb34ea2c8a58e5777c39
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksBarrierHigh.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5dfda1f5d21ec9a4783456e3d1a3dbcc
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksBarrierLow.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a8c476cf0b8398b4e919eabd66d621af
+    m_importFrom: Assets/Res/Models/Daytime/RoadWorksCone.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38712ee56b1eed24d8f5a77d10352a98
+    m_importFrom: Assets/Res/Models/Daytime/SkipBlue.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9df2e973490c88e4fba45be37fd4b39f
+    m_importFrom: Assets/Res/Models/Daytime/SkipRed.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: da3032cd876a05844b3a19acee60b620
+    m_importFrom: Assets/Res/Models/Daytime/SkipYellow.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fd40b0b70fef064c9b7e20779b1f8ec
+    m_importFrom: Assets/Res/Models/Daytime/Sky.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1ed963af49ab4c44bb0baa05dff42c2
+    m_importFrom: Assets/Res/Models/Daytime/StoneWall.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1214424ed6edba644b0349af9404557e
+    m_importFrom: Assets/Res/Models/Daytime/StreetLight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89e6fbf81f961324680e4bf3f84b5990
+    m_importFrom: Assets/Res/Models/Daytime/TelegraphPole01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46384fcfaae550648892113bcd7e8d4a
+    m_importFrom: Assets/Res/Models/Daytime/TelegraphPole02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 794fdbc2f5db99443a100bbb6d837640
+    m_importFrom: Assets/Res/Models/Daytime/TelegraphWires.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c5b4e6cbf5e8cd645a2c8ac01816bd24
+    m_importFrom: Assets/Res/Models/Daytime/Tree01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8b76d69401072b47881c8ae05bfbeae
+    m_importFrom: Assets/Res/Models/Daytime/Warehouse01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7a81a2da35d793c4590d34c242ca5901
+    m_importFrom: Assets/Res/Models/Daytime/Warehouse02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1359dd6aa47776244b81e26522160310
+    m_importFrom: Assets/Res/Models/Daytime/Warehouse03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24a05966196c7fc4380001ad323f651e
+    m_importFrom: Assets/Res/Models/Daytime/WheelyBinBlue.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a70b60abd8187e48861fa614837b38a
+    m_importFrom: Assets/Res/Models/Daytime/WheelyBinGreen.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ccb1af2fc45666b4da4f5150678e4834
+    m_importFrom: Assets/Res/Models/Daytime/WheelyBinRed.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f39f909c6c874a43a86c77bb5eeed5f
+    m_importFrom: Assets/Res/Models/Daytime/Wire.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c3be906d8b519e340b2068613cd500b8
+    m_importFrom: Assets/Res/Models/Daytime/WoodFence01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 237f389f7f4fe2a45af01d35d56d6a51
+    m_importFrom: Assets/Res/Models/Daytime/WoodFence02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7fe3125bc2e932445827149ef4cf8111
+    m_importFrom: Assets/Res/Models/Dog.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c52e3c1f121dda74299d2b29c86fa3f6
+    m_importFrom: Assets/Res/Models/Fishbone.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3aafbb15e0961c040828e4c3d29a19db
+    m_importFrom: Assets/Res/Models/Heart.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6c5d5f4ec05e47947b43a75d2aca001d
+    m_importFrom: Assets/Res/Models/Magnet.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5b532caaec483d48a82370190478c76
+    m_importFrom: Assets/Res/Models/Materials/lambert1.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf1d894a79c44634fb97f93dbddb1635
+    m_importFrom: Assets/Res/Models/Materials/ParthatAndBowtie.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 133ca0afa26ad974cba11eb3a20aaa2c
+    m_importFrom: Assets/Res/Models/Multiply.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2be2b6e1a1ba37447a6b955ae340e2fc
+    m_importFrom: Assets/Res/Models/NightTime/Apartments01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 350fe84486930a844945c7221f1bb088
+    m_importFrom: Assets/Res/Models/NightTime/Apartments02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 605b0c08d86a56647b8171cf01c29579
+    m_importFrom: Assets/Res/Models/NightTime/Apartments03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b6d3348d6d984c14dae80d95c706c040
+    m_importFrom: Assets/Res/Models/NightTime/Apartments04Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 844930ad4f45a9a4cbfe20cc435f28b1
+    m_importFrom: Assets/Res/Models/NightTime/BackgroundBuilding01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2bfbb7640650b2846a26b776a5fedf1f
+    m_importFrom: Assets/Res/Models/NightTime/BackgroundBuilding02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a3ee9746dc25cb4f8d2e3a1a7382eab
+    m_importFrom: Assets/Res/Models/NightTime/BackgroundCircleNight.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7006727c2022b8a40a7242f30b4df1a0
+    m_importFrom: Assets/Res/Models/NightTime/Bin01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 110d7e0ba2f65bd44acb7c77daec5cff
+    m_importFrom: Assets/Res/Models/NightTime/BinBagClosedNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1103aee49ba38b744a9ce352640f45df
+    m_importFrom: Assets/Res/Models/NightTime/BinBagOpenNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27e06a887eea7e0448752080024789c4
+    m_importFrom: Assets/Res/Models/NightTime/BrickWall01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e537dadb0b041534bb5ab40fa58e7a87
+    m_importFrom: Assets/Res/Models/NightTime/Car01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5edd372615a5fd442ab265091a01e1bc
+    m_importFrom: Assets/Res/Models/NightTime/Car02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80119cda50b9f1943b89387a58f7abdf
+    m_importFrom: Assets/Res/Models/NightTime/ClothesLine01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 713e5f0a381d7034fbd10daab2b1f222
+    m_importFrom: Assets/Res/Models/NightTime/ClothesLine02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43ffe2775aaea844ebb24bee7089c958
+    m_importFrom: Assets/Res/Models/NightTime/ClothesLine03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f35d89f6a041c76439db836b1bf00997
+    m_importFrom: Assets/Res/Models/NightTime/Cloud01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 164a167d9f6f028498cc3b1732616292
+    m_importFrom: Assets/Res/Models/NightTime/Cloud02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0918399317f5f646b604e53ce4a4efc
+    m_importFrom: Assets/Res/Models/NightTime/Cloud03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9a0d0ec4fa1f30459aaed7e642ad920
+    m_importFrom: Assets/Res/Models/NightTime/CloverNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25d0c0056bd14014ba01e35595c51192
+    m_importFrom: Assets/Res/Models/NightTime/DumpsterBlueNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 519c944e61ed0114aa8ce901c86d3a41
+    m_importFrom: Assets/Res/Models/NightTime/DumpsterGreenNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8a8c2be8d812e64182cc7c76e4987a6
+    m_importFrom: Assets/Res/Models/NightTime/DumpsterRedNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4431fa544dd1542459e9457e619151f2
+    m_importFrom: Assets/Res/Models/NightTime/FanNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b6caefa49c6f08c4882248ba311c635f
+    m_importFrom: Assets/Res/Models/NightTime/FarBackBuilding01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff3f2fce23e75124a8c93b78b4a757c4
+    m_importFrom: Assets/Res/Models/NightTime/FarBackBuilding02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18201b76469698049b1db7763ebbd564
+    m_importFrom: Assets/Res/Models/NightTime/FarBackBuilding03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc82b22b9b6c84d4b81c6da0733b9702
+    m_importFrom: Assets/Res/Models/NightTime/FireEscapeNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28ee269fb48b08b4ebf71c7164a8af33
+    m_importFrom: Assets/Res/Models/NightTime/FishboneNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a729bf94f66df3e43b24ee7b84fd79fd
+    m_importFrom: Assets/Res/Models/NightTime/Garage01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0cbcac8f06059f648ba3d15412d0805a
+    m_importFrom: Assets/Res/Models/NightTime/Garage02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf23d4eb7a0c0ef41baa165c1abf404a
+    m_importFrom: Assets/Res/Models/NightTime/Garage03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e84cbb283e379643bf0d4bd02da74f0
+    m_importFrom: Assets/Res/Models/NightTime/Garage04Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cae2df579f709f34894f67ab30f70bba
+    m_importFrom: Assets/Res/Models/NightTime/Garage05Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b46e32e1ba03e404c9a9160867096db7
+    m_importFrom: Assets/Res/Models/NightTime/Garage06Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: edf6b364077c56845beb62322b8bfc8a
+    m_importFrom: Assets/Res/Models/NightTime/GrassClumpNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fee3308c76e86cf43a22fe2b88c690c9
+    m_importFrom: Assets/Res/Models/NightTime/HeartNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54e302214ec84b5449d4e070297ff8f9
+    m_importFrom: Assets/Res/Models/NightTime/House01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cdd1b3ed33ddf2147997459201c89546
+    m_importFrom: Assets/Res/Models/NightTime/House02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f67225f3880905438a3f97ede4a94f5
+    m_importFrom: Assets/Res/Models/NightTime/House03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7b3ca3ecfb32be4994a0cc6bebcf0c0
+    m_importFrom: Assets/Res/Models/NightTime/LightCone.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f6b01f4c527bbe44b1f49487047cafd
+    m_importFrom: Assets/Res/Models/NightTime/LightGlowPlane.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7daf6e93f30dc142ac7544786739ca1
+    m_importFrom: Assets/Res/Models/NightTime/LightPool.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d532c32c19645b2499a4be29cf88d85f
+    m_importFrom: Assets/Res/Models/NightTime/LightPool02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 403f3551631f5e74b809ff5f43d32338
+    m_importFrom: Assets/Res/Models/NightTime/MagnetNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 067a34fc4bbf2dc4b9fc8c55fe80aefa
+    m_importFrom: Assets/Res/Models/NightTime/ManHole01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc88a745e354b2c44907d9378e6b7700
+    m_importFrom: Assets/Res/Models/NightTime/Materials/lambert2.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f50729e8807e9d74c91dedb046eddbbe
+    m_importFrom: Assets/Res/Models/NightTime/MultiplyerNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d99cb16e220b5534084e4cb9195aeb1d
+    m_importFrom: Assets/Res/Models/NightTime/ObstacleBinNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4d05444ba14c1849b2cd7bb279e1ee6
+    m_importFrom: Assets/Res/Models/NightTime/ObstacleWheelyBinNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d92fea2124f46184a8108b072ccf6bcb
+    m_importFrom: Assets/Res/Models/NightTime/PipesNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: acbe9efaa69e9ab4d90ce40cd942473e
+    m_importFrom: Assets/Res/Models/NightTime/PlasteredWall01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd2e698e30376894aae9fb24df788f37
+    m_importFrom: Assets/Res/Models/NightTime/PlasteredWall02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a39a1374f2e36fb43861b417c3de0a28
+    m_importFrom: Assets/Res/Models/NightTime/Road01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e6654fc5acfe364ba079a1a92d0c24e
+    m_importFrom: Assets/Res/Models/NightTime/Road02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 478f3d9105dcd9f4e9c7451dc470f203
+    m_importFrom: Assets/Res/Models/NightTime/Road03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 809dcc9239ac44748969b983deed2b1b
+    m_importFrom: Assets/Res/Models/NightTime/Road04Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 529c51c768abc864686cb3e8ab728e7b
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorkConeNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d858ef9ad67c2f94da57dbdf8773ea93
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorksArrowNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 113cc14eabfcd8e4eb168edfe8d12225
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorksBarrier01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abc8ad5de5d2f87499bfe17f00898801
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorksBarrier02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 334c3881d39cef14b9b00e74f4e82c90
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorksBarrier03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4187050017b3e1443b1148841c6d2d3e
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorksBarrierHighNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aa667bc2b02f7204289f3f5a973c5c97
+    m_importFrom: Assets/Res/Models/NightTime/RoadWorksBarrierLowNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ffd10b25d71c18a4b8bc1564c9a8b738
+    m_importFrom: Assets/Res/Models/NightTime/SardinesNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dcfde2f25bd114648b7990ecd29b6c68
+    m_importFrom: Assets/Res/Models/NightTime/SkipBlueNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38f59a21f5a981147b53d0ddf77872a4
+    m_importFrom: Assets/Res/Models/NightTime/SkipRedNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4faf008bf018d4b4badab7708ec45263
+    m_importFrom: Assets/Res/Models/NightTime/SkipYellowNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc2e45f7433c13741aaad00729ca807f
+    m_importFrom: Assets/Res/Models/NightTime/SkyNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae6a85a08d8075148a3a1080a4285f5b
+    m_importFrom: Assets/Res/Models/NightTime/StarInnerNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0606f8f993de1114eaea2b516f2b469d
+    m_importFrom: Assets/Res/Models/NightTime/StoneWallNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef896326ab6f34a4b92f93cb7b333ed7
+    m_importFrom: Assets/Res/Models/NightTime/StreetLightNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8db0598205b778148977ecbd613bbc72
+    m_importFrom: Assets/Res/Models/NightTime/TelegraphPole01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 91adb92975a1cfd42baa9243d6897dbb
+    m_importFrom: Assets/Res/Models/NightTime/TelegraphPole02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76b8038df1fd9af4fb1ae18218eb0abe
+    m_importFrom: Assets/Res/Models/NightTime/TelegraphWiresNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70b2d8ca8d7019345868532ba24371f2
+    m_importFrom: Assets/Res/Models/NightTime/Tree01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e691f3ef1d522494ab68101763f7fb9d
+    m_importFrom: Assets/Res/Models/NightTime/Warehouse01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54de94a1e15933648bd019abb39fbcec
+    m_importFrom: Assets/Res/Models/NightTime/Warehouse02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ebf673298263a6499c690a44d8e8b25
+    m_importFrom: Assets/Res/Models/NightTime/Warehouse03Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1eb7fe32b92f9c144a35065de004d511
+    m_importFrom: Assets/Res/Models/NightTime/WheelyBinBlueNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4557628a953e5294b98f31a5cef83ea8
+    m_importFrom: Assets/Res/Models/NightTime/WheelyBinGreenNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00c38e62d2a93ff4eb50eab5bba54c68
+    m_importFrom: Assets/Res/Models/NightTime/WheelyBinRedNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff27ab6cdbd2558489a36a9f57aec39b
+    m_importFrom: Assets/Res/Models/NightTime/WireNight.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73e8879a2842b6c4080943719d287098
+    m_importFrom: Assets/Res/Models/NightTime/WoodFence01Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db3062059606fec4ab765ae46f1257cb
+    m_importFrom: Assets/Res/Models/NightTime/WoodFence02Night.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f32403f373f28545bb033b44925e201
+    m_importFrom: Assets/Res/Models/RaccoonBase.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4aed8c63f75928c40a2709007cecbee8
+    m_importFrom: Assets/Res/Models/Racoon.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24b9245bce05384439fa7fcfc8f87224
+    m_importFrom: Assets/Res/Models/Rat.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39fde02d9875d4c4e9fa27b4d47c7c58
+    m_importFrom: Assets/Res/Models/Sardines.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 37cbb173dc561454a8010754bf702b66
+    m_importFrom: Assets/Res/Models/Shield.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73874cb76131d954bbdbec46f14b6cb3
+    m_importFrom: Assets/Res/Models/Star.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb0599b183d2df245a26655842165149
+    m_importFrom: Assets/Res/Prefabs/Explosion.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c5f0793b82536342bd64bc3e3fdee8a
+    m_importFrom: Assets/Res/Prefabs/IconConsumable.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc9855a6b2a67364ebc0db28e7bbc98b
+    m_importFrom: Assets/Res/Prefabs/MusicPlayer.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c7ad47898d087f4d844c9fd695e576c
+    m_importFrom: Assets/Res/Prefabs/Particles/CoinMagnetCollectParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e954637ad8cb2bc4397fd0e433e62701
+    m_importFrom: Assets/Res/Prefabs/Particles/CrashParticle.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ed06baf38958d4499069ab23fb82419
+    m_importFrom: Assets/Res/Prefabs/Particles/FishBoneCollectParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9191a4fd2eab74e4693e1a72e5ee97dc
+    m_importFrom: Assets/Res/Prefabs/Particles/InvincibilityCollectParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1caba3d1275fd0547ae29c5a0ec03214
+    m_importFrom: Assets/Res/Prefabs/Particles/MultiplyerCollectParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e2b957157514af40870bf65c60ae63f
+    m_importFrom: Assets/Res/Prefabs/Particles/PowerUpParticle/ExtraLifeParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba9ada52ec59a9a419f39eb32bf9a3b0
+    m_importFrom: Assets/Res/Prefabs/Particles/PowerUpParticle/InvincibilityParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cede34fb26a722408198e0d27628ae9
+    m_importFrom: Assets/Res/Prefabs/Particles/PowerUpParticle/MagnetParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb8a481413e1e1d43aac95d00d81eea7
+    m_importFrom: Assets/Res/Prefabs/Particles/PowerUpParticle/MultiplierParticles.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16cac8b68c4ca6448baecd0680e025f6
+    m_importFrom: Assets/Res/Prefabs/Pickup.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8c89761b43b2362418709a8178d5dd8c
+    m_importFrom: Assets/Res/Prefabs/Powerup/CoinMagnet.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d316f81231c9964dadda0b50ca7ae6b
+    m_importFrom: Assets/Res/Prefabs/Powerup/Consumables.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cccc43bc040988e488680155c25b163c
+    m_importFrom: Assets/Res/Prefabs/Powerup/ExtraLife.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 527cd33d94f565c428b85a011d736c3c
+    m_importFrom: Assets/Res/Prefabs/Powerup/Invincibilty.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1269ce00623d4694f927c463dd3be44a
+    m_importFrom: Assets/Res/Prefabs/Powerup/ScoreMultiplier.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac3c86c2382618643bfda6ab3cc81a0b
+    m_importFrom: Assets/Res/Prefabs/PremiumCollectible.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43ff9f8159bf02740a9e4ee28d2f85fb
+    m_importFrom: Assets/Res/Prefabs/Sky.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6544c21b25704ab4e9c8cd6a6d503dad
+    m_importFrom: Assets/Res/Prefabs/StraightLine.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c8b4e674120cad47a3fc249308e5af3
+    m_importFrom: Assets/Res/Prefabs/UI/AddMissionButton.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2bfa18892388236498842bbfe7a3ff83
+    m_importFrom: Assets/Res/Prefabs/UI/Header.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abafe3707f9235b4ab7cdfd1333295c3
+    m_importFrom: Assets/Res/Prefabs/UI/ItemEntry.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71514012df4dcd146957cb145cec8287
+    m_importFrom: Assets/Res/Prefabs/UI/MissionEntry.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a53fe2875371488408daf0df7d69a981
+    m_importFrom: Assets/Res/Prefabs/UI/MissionPopup.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94cb557246c11d14388842cc08be79a8
+    m_importFrom: Assets/Res/Prefabs/UI/PowerupIcon.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac361d43768a861498da8046b83b94f5
+    m_importFrom: Assets/Res/Prefabs/UI/Score.prefab
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 678d462d33ebdd7419400a9476bf6759
@@ -33,24 +1913,516 @@ MonoBehaviour:
     m_importFrom: Assets/Res/Scenes/Shop.unity
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 4898136a010de434c8ccb47ba33915ed
-    m_importFrom: Assets/Scenes
+  - m_assetDatabaseId: 66b8e0d49d006dd4cb32d8b0fa444728
+    m_importFrom: Assets/Res/Scenes/Start.unity
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 00000000000000004000000000000000
-    m_importFrom: ProjectSettings/ProjectSettings.asset
+  - m_assetDatabaseId: 38bda6f3030e73d4785e813cab2a33d4
+    m_importFrom: Assets/Res/Shaders/CurvedCode.cginc
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 0000000000000000b000000000000000
-    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+  - m_assetDatabaseId: 0999d58022e15764c9c7f1db616452d4
+    m_importFrom: Assets/Res/Shaders/CurvedRotation.shader
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 00000000000000006100000000000000
-    m_importFrom: ProjectSettings/GraphicsSettings.asset
+  - m_assetDatabaseId: 93d8fc18fdc65dd4aa903210d93f3343
+    m_importFrom: Assets/Res/Shaders/CurvedUnlit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e678ec0f80695014392e78a0142dfd2f
+    m_importFrom: Assets/Res/Shaders/CurvedUnlitAlpha.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61242e7b68c333746862afde9cdaf181
+    m_importFrom: Assets/Res/Shaders/CurvedUnlitCloud.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9ac761e73263dc46b8b27826e86ee14
+    m_importFrom: Assets/Res/Shaders/UnlitBlinking.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d63f5eb2904b2b346afd16ebb961ff06
+    m_importFrom: Assets/Res/Shaders/VertexColor.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b7e99a6684bf49fa9bad5f4bb585fab
+    m_importFrom: Assets/Res/Sounds/Mixers/MainMix.mixer
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15e26518785848f4caf8ba236b4d0690
+    m_importFrom: Assets/Res/Sounds/Music/DeathLoop.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1588137430bfbab4b9a00ba3b220b82b
+    m_importFrom: Assets/Res/Sounds/Music/MenuTheme.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 50ac1376fac99334ebe00cff6dc10cf8
+    m_importFrom: Assets/Res/Sounds/SFX/4321.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89acdb637cc78c5418652a27c65514ba
+    m_importFrom: Assets/Res/Sounds/SFX/ButtonPresses.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3acd66c1c1f3d3a499214949f2b98bc5
+    m_importFrom: Assets/Res/Sounds/SFX/Cat/CatDeath.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4df05e5a3da67b74ab57e4fdbff8c1fa
+    m_importFrom: Assets/Res/Sounds/SFX/Cat/CatInjured.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 819da6b208e0c0342b38dbbba363b740
+    m_importFrom: Assets/Res/Sounds/SFX/Cat/CatJump.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 603f051bdda9f2e4e85ca5ebcececfdf
+    m_importFrom: Assets/Res/Sounds/SFX/Death.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a274514c3e79a214192d637691738dea
+    m_importFrom: Assets/Res/Sounds/SFX/Dog/DogGrowlLoop1.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa9008d188552c84b99adb204f504fbf
+    m_importFrom: Assets/Res/Sounds/SFX/Dog/DogGrowlLoop2.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9ca43e15a6013b43af5e7c96fe909f5
+    m_importFrom: Assets/Res/Sounds/SFX/Dog/DogHit.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62c15b4aac9d60e4a963f4f55d31e706
+    m_importFrom: Assets/Res/Sounds/SFX/FishboneCollection.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c332a7257addfd478e6fbf4e338f877
+    m_importFrom: Assets/Res/Sounds/SFX/Invincible.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e09e73a89ba7674785d9e9acd3387b6
+    m_importFrom: Assets/Res/Sounds/SFX/Magnet.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10e884b6be0b40d4ba109a523b5ff74e
+    m_importFrom: Assets/Res/Sounds/SFX/MenuClaimMission.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: defdb98bfddc24748aead1ce73ba7972
+    m_importFrom: Assets/Res/Sounds/SFX/PowerUp.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 553f1d03da54003479f6ff63d3155919
+    m_importFrom: Assets/Res/Sounds/SFX/PremiumCurrency.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec796c96cb65af2418bb27df2b067b67
+    m_importFrom: Assets/Res/Sounds/SFX/Raccoon/RaccoonDead.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1f380e6712a73441aa3816d6747a3dd
+    m_importFrom: Assets/Res/Sounds/SFX/Raccoon/RaccoonHurt.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a4c3639c2e275b54fbbe04365ea56075
+    m_importFrom: Assets/Res/Sounds/SFX/Raccoon/RaccoonJump.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 90690b03aaccb6e4a96d2cdb757b3b44
+    m_importFrom: Assets/Res/Sounds/SFX/Rat/RatHit.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 692deea899152264f8419135ceefafcb
+    m_importFrom: Assets/Res/Sounds/SFX/Rat/RatLoop1.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a683c76e59dd6b04a9420526560624a0
+    m_importFrom: Assets/Res/Sounds/SFX/Rat/RatLoop2.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: febd5a5a8b245774fbfa9f0bef51e0b6
+    m_importFrom: Assets/Res/Sounds/SFX/Slide.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d9e50755a43a614a8233233466a4e80
+    m_importFrom: Assets/Res/Sounds/SFX/TrafficCone.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6707d904747d31c4eb049fc7a139eeb6
+    m_importFrom: Assets/Res/Sounds/SFX/TrashCan.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 115b0e1702f619f4eb691e43745e8ca4
+    m_importFrom: Assets/Res/Sounds/SFX/WheelieBin.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9ed08397b3fef21418662ed63130d301
+    m_importFrom: Assets/Res/Sounds/SFX/WoodenBarrier.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b341b9410b3c5274e8b15199f3b95fb5
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSMainTrackMono.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6db87f5f2928abe40a08ef1016e3c830
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSSpeed1BongosMono.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc0811928bd2d9d449d4eae17f4f4b3d
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSSpeed1HatsMono.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86dbdb689ba140a468dbe99cc86b550c
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSSpeed2Choir.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e332926f9f9720947b646c7c3c65902f
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSSpeed2ChoirMono.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e5b9826496c6c0141801fef8a5a0eeab
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSSpeed3StringsMono.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 37d5e1f1666e7f643891a80f6d37b371
+    m_importFrom: Assets/Res/Sounds/Stems/STEMSSpeed4SynthMono.ogg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe0496be663f7e149ab9389723ce1141
+    m_importFrom: Assets/Res/Textures/BinAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d98d8849abd5f541a329153b6b8aac7
+    m_importFrom: Assets/Res/Textures/BinBagsAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cd5856d490ea72f4f96160adef8dd930
+    m_importFrom: Assets/Res/Textures/BinNightAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7581ae65f6321447a66ee3ae24fe8a1
+    m_importFrom: Assets/Res/Textures/BlobShadow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7fcdbeddb841bb245933f8a3567aca75
+    m_importFrom: Assets/Res/Textures/BrickWallAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c83acac26e89c0d4db877bae8451c329
+    m_importFrom: Assets/Res/Textures/Car01Albedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad9b4d3f2df395b4fb7ad98e98d4acdf
+    m_importFrom: Assets/Res/Textures/Car02Albedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1dde8fb2f7d6df74a84e5967afe3417a
+    m_importFrom: Assets/Res/Textures/CatAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c12354f1a96957347a94c432664d8032
+    m_importFrom: Assets/Res/Textures/CloverAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 601e436493183e74b96c11ccc0775fe0
+    m_importFrom: Assets/Res/Textures/ConstructionWorkerAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6a31c5f9148e2ff4ea200e2ec3b4b1dc
+    m_importFrom: Assets/Res/Textures/CorrugatedMetalAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6cf912fd861e20c41a5f98f4aa5edb95
+    m_importFrom: Assets/Res/Textures/DogAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e78adddc40757eb45b2d587e24e027bc
+    m_importFrom: Assets/Res/Textures/DogNightAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a4d34a3bbaf4fee48a79af8df924ce78
+    m_importFrom: Assets/Res/Textures/DumpsterAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2fa82f6f969d763429157fe51f817a72
+    m_importFrom: Assets/Res/Textures/FishboneAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6c875674e43d8234e92c72134a251859
+    m_importFrom: Assets/Res/Textures/Grad.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2c086d8d57305b46badb6b502a5a968
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb4eb13401bc2e14b958f7874244c899
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0d7f9d969c49cd4885f97c165bdfa7b
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: addcf3e67d1b5a846b9eb3d056df0912
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti04.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7914a9a713af18c40b1a5f1032318361
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti05.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ef825b7e75d84e499fbfcad0eaaecb2
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti06.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 913d0a2c575c9bf42b172000a39bcfc0
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti07.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d201f5c27c403d54abc81e9e70fbab99
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti08.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb67dd508c3b85b46a088b3894514f6e
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti09.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de2c87941c8f76b478910c3c7d526909
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti10.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e59919583afb9341a72173ebbac3fcd
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti11.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d8f76b712098b754dafbe140ac26ece8
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti12.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11fc4e2b6b0a871489e3f9166321d8d5
+    m_importFrom: Assets/Res/Textures/Graffiti/Graffiti13.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b5fc9870b4d1554f88f54e74a5fbf3f
+    m_importFrom: Assets/Res/Textures/GrassGradientAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b2844672526cf44b94488bc362ee515
+    m_importFrom: Assets/Res/Textures/HeartAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4bf6eca9484ab4845a4b5a0ebb121a42
+    m_importFrom: Assets/Res/Textures/HeartParticle.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87ddb59e82d8e444aa3a2026f5c87959
+    m_importFrom: Assets/Res/Textures/LightGlowSquareAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7188446976148db4881a1b85e0b24069
+    m_importFrom: Assets/Res/Textures/LightPoolAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 903864306f822dc41a985983a1a6c935
+    m_importFrom: Assets/Res/Textures/MagnetAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0851060e94bd44c4abf6881ea1eb7e63
+    m_importFrom: Assets/Res/Textures/MagnetSparks.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc9b49cf56a506744b8dc20ea99c9fef
+    m_importFrom: Assets/Res/Textures/ManHoleAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62daab0b219b41440b5dd19d5765777d
+    m_importFrom: Assets/Res/Textures/MultiplierParticle.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c9414c650f62e5e409ece9f19b6fceed
+    m_importFrom: Assets/Res/Textures/Particle01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc2583299b79c944aace43dddff619e4
+    m_importFrom: Assets/Res/Textures/PartyHatBowtieAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bdab1ed0d99f3854c867ed4cedd1919e
+    m_importFrom: Assets/Res/Textures/PipeAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52c4c3602ceb4884e8b33d664fd6e678
+    m_importFrom: Assets/Res/Textures/PlasterAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca41f2755ffcd5d4d830c7148395d7e2
+    m_importFrom: Assets/Res/Textures/Puff.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b9bb72d71c46cc42b3e8acb15fe2517
+    m_importFrom: Assets/Res/Textures/RacoonAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25293e058eb614f489870528ad08d334
+    m_importFrom: Assets/Res/Textures/RatAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e5001bc94455964a9abc613d3e1604b
+    m_importFrom: Assets/Res/Textures/RatNightAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6336c4a6c52726d4b8aa9810b8b76ef7
+    m_importFrom: Assets/Res/Textures/RubbishAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b247b10b9eefbf4fa756d7b29511bce
+    m_importFrom: Assets/Res/Textures/SardinesGoldAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63d49630fac087f45a20451e73dc7aad
+    m_importFrom: Assets/Res/Textures/SkipAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa5a8fc362c346548982ad762f0c9fd7
+    m_importFrom: Assets/Res/Textures/SlatsAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e5e32cad9e5d2c249a4a959886b64650
+    m_importFrom: Assets/Res/Textures/SmokePuff.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 910fb746fee11e6459726c1fc099d2de
+    m_importFrom: Assets/Res/Textures/Sparkle.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9177a9223d76cdc42ba1bd8045bbc2ba
+    m_importFrom: Assets/Res/Textures/Star.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4e51a680b56fef479802abff3327a9f
+    m_importFrom: Assets/Res/Textures/StarAlbedo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c43add2f087eaaf4dabfede3fd244dc8
+    m_importFrom: Assets/Res/Textures/StoneWallAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8508a626a3eef6146867ac6890f2e865
+    m_importFrom: Assets/Res/Textures/TreeBranchAlbedo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e869e49c48392941a86999cef370ecf
+    m_importFrom: Assets/Res/Textures/WarningLightAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9baf6e72cc9bd7b4293830149cc335fe
+    m_importFrom: Assets/Res/Textures/WashingLineClothesAlbedo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa7e3ccbd9a948748b3c7e74fc803e5b
+    m_importFrom: Assets/Res/Textures/WheelyBinAlbedo.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4a6e14a3028d0745b6de33d884bf62a
+    m_importFrom: Assets/Res/Tutorial/Down/IndustrialWarehouseTutorialUp2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8515fe4be5c88bc4594fa0b2c4165a95
+    m_importFrom: Assets/Res/Tutorial/Down/IndustrialWarehouseUp.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1fdce3067b0cf842a46d3d44dd9e841
+    m_importFrom: Assets/Res/Tutorial/Down/IndustrialWarehouseUp3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68a52f3ad60bf6e4d8165784f5dffd9e
+    m_importFrom: Assets/Res/Tutorial/LeftRight/IndustrialWarehouseLeftRight2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 19a9ea291ba68194c8cac8f13a84fe83
+    m_importFrom: Assets/Res/Tutorial/LeftRight/IndustrialWarehouseLeftRight3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e64ce49b27bab6e49a4fcec2c01f3602
+    m_importFrom: Assets/Res/Tutorial/LeftRight/IndustrialWarehouseTutorialLeftRight.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2594127ff496284399060a56ff8ad68
+    m_importFrom: Assets/Res/Tutorial/Tutorial.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f249b9db828e0cf488639f91ddce9646
+    m_importFrom: Assets/Res/Tutorial/Up/IndustrialWarehouseTutorialUp2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6e9d5bba1674a148b19274e4b74ccf2
+    m_importFrom: Assets/Res/Tutorial/Up/IndustrialWarehouseUp.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2337a0b8ee44c884ea9a30757fe06a71
+    m_importFrom: Assets/Res/Tutorial/Up/IndustrialWarehouseUp3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3400b92beb9f77c4e919dbdb39e9ec8c
+    m_importFrom: Assets/Res/UI/Logo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15faec96c86a9c3478ca147ec0bd579a
+    m_importFrom: Assets/Res/UI/StoreIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05c08d2d951f33243b9b36a3d6b46f29
+    m_importFrom: Assets/Res/UI/UIBorderTransparent.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1a536f74c7ef384a8d7132148ace0c8
+    m_importFrom: Assets/Res/UI/UISpritesheet.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b00f2daa228ec6c408a10403e8c2552b
+    m_importFrom: Assets/Res/UI/Unity.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 74deb79d72470aa4cbee1fe03bdeca1d
+    m_importFrom: Assets/Resources/IAPProductCatalog.json
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: bf9c5d13aee206243beff512afbfef84
-    m_importFrom: Assets/Scenes/HotFix.unity
+    m_importFrom: Assets/Scenes/Init.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21fd33b5b9f355441a10208e5bc17923
+    m_importFrom: Assets/Scripts/HotFix.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92992b58c0bb48847bf374fb401f7bbb
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Dlls.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92992b58c0bb48847bf374fb401f7bbb
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Dlls.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 395d76956e015b04ba0fb4caf93e5204
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/Dlls_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4d56586ae9f4bf4fa273b66b70a43ef
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/Dlls_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dd1c7b67b1e49384ea3844977d0616ba
+    m_importFrom: Assets/AssetGraph/Cache
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e8d527cbf825bd46bb14c8edfef519a
+    m_importFrom: Assets/AssetGraph/Cache/AssetBundleBuildMap.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03f3ce3200a1af241966dafae0abde68
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetProcessEventRecord.asset
     m_exportTo: 
     m_variantName: 
   m_version: 2

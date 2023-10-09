@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Dlls
+  m_EditorClassIdentifier: 
+  m_GroupName: Dlls
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5111de65d4fc3c64fa90659a709d88d2
+  m_SerializeEntries:
+  - m_GUID: 7cee599188f62dd41bbd26af8c5623b5
+    m_Address: HotFix.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bacceaa0c8da1e74181f3c3e55775660
+    m_Address: mscorlib.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c82786f84af255d47b6a194980c6cea7
+    m_Address: System.Core.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f65228810ab53b04d85d192ca3b955a5
+    m_Address: System.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34748688ff94b04598f94281f4758e9
+    m_Address: Unity.Addressables.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad4753f7e6aab094aa8e25c80d6ea386
+    m_Address: Unity.ResourceManager.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05f8d5c2fe68f94418e9aae7e59c681b
+    m_Address: UnityEngine.CoreModule.dll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dll
+    - Pre
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 395d76956e015b04ba0fb4caf93e5204, type: 2}
+    - {fileID: 11400000, guid: c4d56586ae9f4bf4fa273b66b70a43ef, type: 2}
